@@ -1,0 +1,163 @@
+{
+  "projectVersion": "1.0.0",
+  "scaleStandard": {
+    "oneStudInMeters": 0.28,
+    "referenceAvatarHeightStuds": 5.2,
+    "textureBakeResolution": "1024x1024",
+    "normalMapFormat": "OpenGL (+Y)"
+  },
+  "models3D": [
+    {
+      "assetKey": "ResourceNode_Crystal_T1",
+      "instanceName": "CrystalNode_Tier1",
+      "category": "EnvironmentInteractiveProp",
+      "generatorSource": "Rodin Hyper3D / Nilo",
+      "triangleBudgetMax": 850,
+      "dimensionsStuds": {
+        "x": 4.0,
+        "y": 5.5,
+        "z": 4.0
+      },
+      "pivotPlacement": "BottomCenter",
+      "physicsConfig": {
+        "anchored": true,
+        "canCollide": true,
+        "canTouch": false,
+        "canQuery": true,
+        "collisionFidelity": "Box"
+      },
+      "streamingConfig": {
+        "modelStreamingMode": "Atomic"
+      },
+      "collectionServiceTags": [
+        "ResourceNode"
+      ],
+      "attributes": {
+        "NodeTier": 1
+      }
+    },
+    {
+      "assetKey": "DepositTerminal_Station",
+      "instanceName": "DepositTerminalStation",
+      "category": "EnvironmentInteractiveStructure",
+      "generatorSource": "Rodin Hyper3D",
+      "triangleBudgetMax": 2400,
+      "dimensionsStuds": {
+        "x": 8.0,
+        "y": 7.5,
+        "z": 6.0
+      },
+      "pivotPlacement": "BottomCenter",
+      "physicsConfig": {
+        "anchored": true,
+        "canCollide": true,
+        "canTouch": false,
+        "canQuery": true,
+        "collisionFidelity": "Box"
+      },
+      "streamingConfig": {
+        "modelStreamingMode": "Atomic"
+      },
+      "collectionServiceTags": [
+        "DepositTerminal"
+      ],
+      "attributes": {}
+    },
+    {
+      "assetKey": "UpgradeForge_Station",
+      "instanceName": "UpgradeForgeStation",
+      "category": "EnvironmentInteractiveStructure",
+      "generatorSource": "Rodin Hyper3D",
+      "triangleBudgetMax": 2800,
+      "dimensionsStuds": {
+        "x": 9.0,
+        "y": 8.0,
+        "z": 7.0
+      },
+      "pivotPlacement": "BottomCenter",
+      "physicsConfig": {
+        "anchored": true,
+        "canCollide": true,
+        "canTouch": false,
+        "canQuery": true,
+        "collisionFidelity": "Box"
+      },
+      "streamingConfig": {
+        "modelStreamingMode": "Atomic"
+      },
+      "collectionServiceTags": [
+        "UpgradeStation"
+      ],
+      "attributes": {}
+    },
+    {
+      "assetKey": "Coral_Background_Deco_01",
+      "instanceName": "AbyssalCoralDeco",
+      "category": "PureDecoration",
+      "generatorSource": "Nilo / Studio Assistant",
+      "triangleBudgetMax": 450,
+      "dimensionsStuds": {
+        "x": 3.5,
+        "y": 4.0,
+        "z": 3.5
+      },
+      "pivotPlacement": "BottomCenter",
+      "physicsConfig": {
+        "anchored": true,
+        "canCollide": false,
+        "canTouch": false,
+        "canQuery": false,
+        "collisionFidelity": "Box"
+      },
+      "streamingConfig": {
+        "modelStreamingMode": "Default"
+      },
+      "collectionServiceTags": [],
+      "attributes": {}
+    }
+  ],
+  "uiScreens": [
+    {
+      "screenKey": "MainHUD",
+      "instanceName": "MainHUDGui",
+      "resetOnSpawn": false,
+      "ignoreGuiInset": false,
+      "screenInsets": "CoreUISafeInsets",
+      "minButtonTouchSizePx": 48,
+      "supportsGamepadSelection": true
+    },
+    {
+      "screenKey": "UpgradeModal",
+      "instanceName": "UpgradeShopModalGui",
+      "resetOnSpawn": false,
+      "ignoreGuiInset": false,
+      "screenInsets": "CoreUISafeInsets",
+      "minButtonTouchSizePx": 48,
+      "supportsGamepadSelection": true
+    }
+  ],
+  "audioAssets": [
+    {
+      "audioKey": "SFX_ExtractHit",
+      "format": "ogg",
+      "maxDurationSeconds": 1.2,
+      "pitchVariationRange": [0.94, 1.06],
+      "soundGroup": "SFX"
+    },
+    {
+      "audioKey": "SFX_DepositCoins",
+      "format": "ogg",
+      "maxDurationSeconds": 2.0,
+      "pitchVariationRange": [0.98, 1.02],
+      "soundGroup": "SFX"
+    },
+    {
+      "audioKey": "BGM_AbyssalLobby",
+      "format": "ogg",
+      "maxDurationSeconds": 180.0,
+      "isInstrumentalOnly": true,
+      "looped": true,
+      "soundGroup": "Music"
+    }
+  ]
+}

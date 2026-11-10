@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "e2502dedf40b6825",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb1034ea2b6c6c9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74636031b2fba319",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33e2ddc7bebeedbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "edbe1d6ee5ea827d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb10a4cbf1c6e02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "f7fd9d67f8c5a361",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "7976045221d51e37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea0add2232235138",
+    "type": "split",
+    "children": [
+      {
+        "id": "f998df188e016961",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdafbf62d062e821",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "7aa303dd24297a0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "8f1b2f4911805141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "005bbfbe5d7ce2ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "df04bb82f1ef60c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "74636031b2fba319",
+  "lastOpenFiles": [
+    "00_Mapa_del_Vault.md.md",
+    "vault/09_Errores_Comunes_IA_Roblox.md.md",
+    "vault/07_UI_UX_Responsive_Consola.md.md",
+    "vault/06_Optimizacion_Movil_Streaming.md.md",
+    "vault/05_Datos_ProfileStore_Monetizacion.md.md",
+    "vault/04_Patrones_y_Estructura_Rojo.md.md",
+    "vault/02_Guia_Luau_Tipado_Estricto.md.md",
+    "vault/01_API_Roblox_y_Servicios.md.md",
+    "vault/claude.md",
+    "Roblox/Bienvenido.md",
+    "cree un enlace.md",
+    "vault/03_Seguridad_Cliente_Servidor.md.md"
+  ]
+}
