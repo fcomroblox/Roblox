@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "af69fa05df826541",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8b4a05a76355711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55573007e7d7a2ae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98fa09dc436c71bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3153aa2eb7ada63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb718990653518a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b0d6f32a95784ed0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "5c05d64499effacd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "812be6d99ce0c55c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0db1be37fdff284b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee4f414b78fbb0ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "d61fbd04dd7c23a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "fe34e126dab1a64b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7d19ebfeb4468e85",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "abb96bf4f2bf4e18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "55573007e7d7a2ae",
+  "lastOpenFiles": [
+    "docs/art_bible.md",
+    "file:C:/Users/Jose AS/AppData/Local/Temp/Rar$DIa17152.8148.rartemp/SKILL.md",
+    "file:C:/Users/Jose AS/AppData/Local/Temp/Rar$DIa13028.19917.rartemp/REVIEWERS.md",
+    "docs/vault/09_Errores_Comunes_IA_Roblox.md",
+    "docs/00_mapa_central_e_ndice_del_grafo_de_obsidian.md",
+    "Packages/_Index/sleitnick_trove@1.8.0/trove/wally.toml",
+    "Packages/_Index/sleitnick_trove@1.8.0/trove/init.test.luau",
+    "Packages/_Index/sleitnick_trove@1.8.0/trove/init.luau",
+    "Packages/_Index/sleitnick_trove@1.8.0/trove/index.d.ts",
+    "Packages/_Index/sleitnick_signal@2.0.3/signal/wally.toml",
+    "Packages/_Index/sleitnick_signal@2.0.3/signal/init.test.luau",
+    "Packages/_Index/sleitnick_signal@2.0.3/signal/init.luau",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/tests/planning/d.spec.lua",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/tests/planning/b.spec.lua",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/tests/planning/a.spec.lua",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/testez-cli/README.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/README.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/LICENSE.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/FEATURES.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/CHANGELOG.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/getting-started/writing-tests.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/getting-started/running-tests.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/getting-started/installation.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/getting-started/debugging-tests.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/index.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/api-reference.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/README.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/DESIGN.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/CONTRIBUTING.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/CHANGELOG.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/WhyUsePromises.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/Tour.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/intro.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/Installation.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/Examples.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/README.md",
+    "Sin título.canvas"
+  ]
+}

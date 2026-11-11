@@ -37,3 +37,6 @@ Todos los materiales, luces e interfaces (`ScreenGui`) deben utilizar exclusivam
   1. **Títulos, Cabeceras y Contadores Numéricos:** `Enum.Font.FredokaOne` (con `UIStroke` de grosor $2\text{ px}$).
   2. **Descripciones, Estadísticas y Cuerpo de Texto:** `Enum.Font.GothamMedium` (o `BuilderSansMedium`).
 - **Esquinas y Bordes:** `UICorner` con `CornerRadius = UDim.new(0.15, 0)` en botones y `UDim.new(0.04, 0)` en ventanas modales.
+
+---
+**Conexiones del Vault:** [[00_Mapa_del_Vault]] | [[GDD_Master]] | [[16_Pipeline_3D_Blender_PBR_y_MCP_Import]] | [[20_Efectos_Visuales_VFX_Iluminacion_y_Jugabilidad_Juice]]

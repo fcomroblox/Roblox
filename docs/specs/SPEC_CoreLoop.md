@@ -65,3 +65,6 @@ export type CoreLoopStatePayload = {
    - Rechazar la petición si `(hrp.Position - targetPosition).Magnitude > 18` studs ($14\text{ studs}$ de alcance base $+ 4\text{ studs}$ de tolerancia de latencia móvil).
 4. **Limpieza de Memoria:**
    - Al dispararse `Players.PlayerRemoving`, eliminar la entrada del jugador en las tablas de estado efímero y de cooldowns.
+
+---
+**Conexiones del Vault:** [[00_Mapa_del_Vault]] | [[GDD_Master]] | [[01_API_Roblox_y_Servicios]] | [[03_Seguridad_Cliente_Servidor]] | [[05_Datos_ProfileStore_Monetizacion]]

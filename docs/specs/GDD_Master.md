@@ -67,3 +67,6 @@ export type PlayerDataSchema = {
 - **Retención Día 1 (D1 Retention):** $> 14\%$ (Objetivo de escalado: $> 20\%$)
 - **Qualified Play Through Rate (qPTR):** $> 2.5\%$
 - **Tasa de Sesiones Libres de Fallos (Crash-Free Rate):** $> 99.2\%$
+
+---
+**Conexiones del Vault:** [[00_Mapa_del_Vault]] | [[SPEC_CoreLoop]] | [[art_bible]] | [[05_Datos_ProfileStore_Monetizacion]] | [[19_Analiticas_Telemetria_Funnel_y_Economia]]

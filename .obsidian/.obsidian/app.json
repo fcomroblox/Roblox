@@ -1,0 +1,13 @@
+{
+  "userIgnoreFilters": [
+    "src/",
+    "Packages/",
+    "ServerPackages/",
+    "wally.lock",
+    "rokit.toml",
+    "wally.toml",
+    "selene.toml",
+    "stylua.toml",
+    "default.project.json"
+  ]
+}

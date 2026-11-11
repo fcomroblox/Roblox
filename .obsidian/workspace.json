@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0744a2b3eb1ffb4b",
+        "id": "d8b4a05a76355711",
         "type": "tabs",
         "children": [
           {
-            "id": "6dcb26b0a372e9d3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "4ec7a7684f7a66ad",
+            "id": "55573007e7d7a2ae",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -26,9 +16,37 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "98378fd2561286ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:C:/Users/Jose AS/Desktop/Obsidian/LIH.FOLK.VAULT.V2.FULL/LihFolk Vault V2/skills/roblox-blender-modeling/SKILL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SKILL"
+            }
+          },
+          {
+            "id": "b8bf540379b8484b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_agents/skills/roblox-monetization-compliance/SKILL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SKILL"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,43 +210,45 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4ec7a7684f7a66ad",
+  "active": "b8bf540379b8484b",
   "lastOpenFiles": [
-    "Sin título.md",
-    "docs/cree un enlace.md",
-    "docs/Roblox/Sin nombre",
-    "docs/Roblox/Bienvenido.md",
-    "docs/Roblox",
-    "Sin título 1.base",
-    "Sin título.canvas",
-    "docs/vault/01_api_de_roblox_servicios_y_task_scheduler.md",
-    "docs/vault/03_seguridad_cliente_servidor_y_anti_exploits.md",
-    "docs/specs/GDD_Master.md",
-    "Sin nombre",
-    "SRC",
-    "Nueva carpeta",
-    "docs/vault/02_gu_a_de_luau_moderno_y_tipado_estricto.md",
+    "file:C:/Users/Jose AS/Desktop/Obsidian/LIH.FOLK.VAULT.V2.FULL/LihFolk Vault V2/skills/roblox-trend-game/references/trend-games-research.md",
+    "INFORME_DE_FUSION.md",
     "GEMINI.md",
+    "default.project.json",
     "CLAUDE.md",
-    "docs/art_biblie.md",
-    "docs/GEMINI.md",
-    "docs/CLAUDE.md",
-    "docs/specs/SPEC_CoreLoop.md",
-    "docs/reglas_maestras_para_google_gemini.md",
-    "docs/reglas_maestras_para_claude_code.md",
-    "docs/vault/claude.md",
-    "docs/vault/10_biblioteca_de_plantillas_de_prompts.md",
-    "docs/vault/09_errores_comunes_de_la_ia_en_roblox_y_soluciones.md",
-    "docs/vault/08_normas_de_moderaci_n_policyservice_y_pol_ticas.md",
-    "docs/vault/07_ui_ux_responsive_para_m_vil_pc_y_consola.md",
-    "docs/vault/06_optimizaci_n_m_vil_y_streamingenabled.md",
-    "docs/vault/05_datos_profilestore_y_monetizaci_n.md",
-    "docs/vault/04_patrones_de_arquitectura_modular_y_rojo.md",
-    "docs/specs/MANIFEST_Assets.json",
-    "docs/vault",
-    "docs/specs",
-    "docs",
-    "2026-11-10.md",
-    "Bienvenido.md"
+    "src/server/services",
+    "src/client/controllers",
+    "src/shared",
+    "src/server",
+    "src/client",
+    "src",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/spec/test-project/usurp/init.lua",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/spec/test-project/usurp/foo.lua",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/spec/test-project/normal-folder/ack.lua",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/README.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/LICENSE.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/FEATURES.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/CHANGELOG.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/getting-started/writing-tests.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/getting-started/running-tests.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/getting-started/installation.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/getting-started/debugging-tests.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/testez-cli/README.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/index.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/docs/api-reference.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/README.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/DESIGN.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/CONTRIBUTING.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/CHANGELOG.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/WhyUsePromises.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/Tour.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/intro.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/Installation.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/docs/Examples.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/README.md",
+    "Packages/_Index/evaera_promise@4.0.0/promise/CHANGELOG.md",
+    "encyclopedia/000 Moon Map.canvas",
+    "Sin título.canvas"
   ]
 }
